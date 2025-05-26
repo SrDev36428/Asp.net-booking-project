@@ -1,25 +1,25 @@
-## Book Project Screenshots
+# Book Project Screenshots
 
-### Home
+## Home
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/home.png)
 
-### Book Details
+## Book Details
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/details.png)
 
-### Category List
+## Category List
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/category_list.png)
 
-### Book List
+## Book List
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/book_list.png)
 
-### Book Update
+## Book Update
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/updateBook.png)
 
-### Register
+## Register
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/register.png)
 
-### Login
+## Login
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/login.png)
 
-### Profile Settings
+## Profile Settings
 ![home](https://github.com/busraozdemir0/BookProject/blob/master/ProjectScreenshots/profileSettings.png)
